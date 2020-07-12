@@ -1,0 +1,21 @@
+        @import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch&display=swap');
+        img{
+            display: inline-block;
+            width: 300px;
+            height: 400px;
+            margin: 55px;
+            padding: 10px;
+            border-radius: 40px 0 40px 0;
+            border: solid black;
+        }
+        div{
+            font-family: 'Grenze Gotisch', cursive;
+            font-size: 36px;
+            margin: 0 auto;
+            text-align: center;
+            border: solid black;
+            border-radius: 20px;
+            width: 50%;
+            background-color: rgb(15, 107, 92);
+            color: white;
+        }
